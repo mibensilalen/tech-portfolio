@@ -14,7 +14,7 @@ const users = [];
 const siteConfig = {
     title: 'Mohamed Ibensilalen', // Title for your website.
     tagline: 'Technologist, awesome, and amazing.',
-    profilePhoto: 'img/profile.png',
+    profilePhoto: 'img/profile.jpeg',
     url: 'https://mibensilalen.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
@@ -72,9 +72,9 @@ const siteConfig = {
     If you want to remove a social media icon, you can add the two // before the line
     or delete the line. */
     socialMedia: {
-        linkedin: 'https://www.linkedin.com/in/',
+        linkedin: 'https://www.linkedin.com/in/mohamed-ibensilalen-03459b172/',
         twitter: 'https://twitter.com/',
-        github: 'https://github.com/',
+        github: 'https://github.com/mibensilalen',
         //facebook: 'https://www.facebook.com/',
         //instagram: 'https://www.instagram.com/',
         //youtube: 'https://www.youtube.com/',
