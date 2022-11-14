@@ -10,4 +10,4 @@ CentRes is a software for small restaurant owners that helps their employees str
 
 or even embed images with the following Markdown:
 
-![Add alternate text for image](./assets/project.png)
+![Add alternate text for image](./assets/Project.png)
